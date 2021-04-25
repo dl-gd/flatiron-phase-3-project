@@ -20,7 +20,7 @@ As the head of this team, I am in charge of building a classifier that will let 
 
 Data for this project is provided by the [City of Chicago](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) and sourced from various police reports. Ultimately, over 70,000 auto accidents were analyzed & used for model construction. 
 
-The dataset provides weather conditions, injury types and crash types, but that is just barely scratching the surface. I highly recommend following the link above or looking at the [Column_Description Notebook]() in this repository if you're curious about the wide range of details surrounding each crash. 
+The dataset provides weather conditions, injury types and crash types, but that is just barely scratching the surface. I highly recommend following the link above or looking at the [Column_Description Notebook](https://github.com/dl-gd/flatiron-phase-3-project/blob/master/Column_Description.md) in this repository if you're curious about the wide range of details surrounding each crash. 
 
 Finally, the target I try to predict in this project is the accident's primary cause, which has four distinct categories that I devised:
 
@@ -86,7 +86,7 @@ Given more time, I would do the following:
 
 # For More Information
 
-See the full analysis in the [Jupyter Notebook]() or check out this [presentation overview](). 
+See the full analysis in the [Jupyter Notebook](https://github.com/dl-gd/flatiron-phase-3-project/blob/master/car_crashes_chicago.ipynb) or check out this [presentation overview](https://github.com/dl-gd/flatiron-phase-3-project/blob/master/Presentation.pdf). 
 
 For additional information, contact Dom Garcia at [dlgarcia.017@gmail.com](mailto:dlgarcia.017@gmail.com)
 
